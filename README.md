@@ -3,6 +3,7 @@
 Developed a real-time weather analytics dashboard using **Power BI** integrated with the **OpenWeatherMap API** to visualize live weather conditions across global cities. The dashboard delivers interactive insights through dynamic KPIs and automated real-time updates.
 
 ---
+<img width="907" height="511" alt="image" src="https://github.com/user-attachments/assets/17c6767a-6508-4654-b343-4f20d88bcbb6" />
 
 ## 🚀 Features
 
